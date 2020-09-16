@@ -7,5 +7,7 @@
 3. Активировать окружение ```django\Scripts\activate.bat```
 4. Установить пакеты ```pip install -r requirements.txt```
 5. Запустить проект командой ```python manage.py runserver```
+Админская УЗ: admin/admin
+
 
 
