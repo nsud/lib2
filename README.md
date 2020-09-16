@@ -2,11 +2,10 @@
 
 Для запуска проекта необходимо: 
 
-1. Клонировать проект
-2. Создать окружение
-3. Сделать миграцию
-4. Запустить проект командой ```python manage.py runserver```
-5. Список друзей отображается по ссылке:
-http://127.0.0.1:8000/friends/
+1. Клонировать проект командой https://github.com/nsud/lib2.git
+2. Создать окружение ```python -m venv django```
+3. Активировать окружение ```django\Scripts\activate.bat```
+4. Установить пакеты ```pip install -r requirements.txt```
+5. Запустить проект командой ```python manage.py runserver```
 
 
